@@ -11,7 +11,7 @@
 # SetUP MYSQL in EC2-Instance
   [Mysql-Database-Setup](https://github.com/Naresh240/Mysql-Database-Setup/blob/main/README.md)
 # Clone the code to local machine
-    git clone https://github.com/Naresh240/springboot-with-database.git
+    git clone https://github.com/Naresh240/springboot-with-mysql.git
 # Build Artifact using maven command
     cd springboot-with-database
     mvn clean install
